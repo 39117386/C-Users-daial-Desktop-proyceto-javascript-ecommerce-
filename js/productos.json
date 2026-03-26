@@ -1,7 +1,7 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Campera inflable  ",
+        "titulo": "Campera   ",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
