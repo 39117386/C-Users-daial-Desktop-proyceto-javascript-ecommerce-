@@ -1,7 +1,7 @@
 [
     {
         "id": "abrigo-01",
-        "titulo": "Campera inflable abrigo ",
+        "titulo": "Campera inflable  ",
         "imagen": "./img/abrigos/01.jpg",
         "categoria": {
             "nombre": "Abrigos",
@@ -31,7 +31,7 @@
     },
     {
         "id": "abrigo-04",
-        "titulo": "campera inflable abrigo",
+        "titulo": "campera inflable ",
         "imagen": "./img/abrigos/04.jpg",
         "categoria": {
             "nombre": "Abrigos",
@@ -81,7 +81,7 @@
     },
     {
         "id": "camiseta-04",
-        "titulo": "Remera lisa roja ",
+        "titulo": "Remera  roja ",
         "imagen": "./img/camisetas/04.jpg",
         "categoria": {
             "nombre": "Camisetas",
